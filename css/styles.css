@@ -607,6 +607,22 @@
       border-radius: 4px;
     }
 
+    .modal-btn {
+      position: absolute;
+      top: 8px;
+      right: 8px;
+      width: 30px;
+      height: 30px;
+
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      background-color: var(--primary-bg-color);
+      border: 1px solid var(--backdrop-bg-color);
+      border-radius: 50%;
+    }
+
 
 
 
